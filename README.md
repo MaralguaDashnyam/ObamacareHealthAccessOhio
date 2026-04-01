@@ -1,6 +1,6 @@
 # 🗺️ How Did Obamacare Change Health Access in Ohio?
-**GEO 441 – Team 4 Final Project**  
-**By Hera Dashnyam, Noah Brunskill, Morgan Eglseder, David Hernandez**  
+  
+**By Hera Dashnyam**  
 **Spring 2025 | Miami University | Instructor: Dr. Shenyue Jia**
 
 ---
@@ -89,17 +89,6 @@ The following PNGs were created using ArcGIS and QGIS to visualize changes over 
 - **[StoryMap Presentation](https://storymaps.arcgis.com/stories/c0e69a9621f7417da91e09d18f6a5308)**  
 - **[Meta Data Dictionary (Google Doc)](https://docs.google.com/document/d/1yNyQx1iv6wS6RmbOzVGtTQMUxx9jsBN11zAQFbSHir0/edit)**  
 - **[Google Drive Folder (Data + Maps)](https://drive.google.com/drive/folders/15BePIAQqvuDN2vFbj0oKoIT8FNuS6Efn?usp=sharing)**
-
----
-
-## Team Roles
-
-| Name            | Contribution |
-|------------------|--------------|
-| **Noah Brunskill**  | StoryMap layout & captions |
-| **Morgan Eglseder** | Metadata dictionary, GitHub setup |
-| **Hera Dashnyam**   | Data cleaning, ACS joins, map design |
-| **David Hernandez** | Research, literature, final polish |
 
 ---
 
